@@ -1,6 +1,6 @@
 <div align="center">
 
-![](public/images/logo.png)
+![](Database_Project_Code/public/images/logo.png)
 
 </div>
 
